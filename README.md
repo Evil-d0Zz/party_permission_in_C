@@ -1,6 +1,4 @@
-#Permission to join the party in C 🌐
-
-![Alerta de texto](https://github.com/N3w-elf/party_permission_in_C/blob/master/video/aaa.mp4)
+# Permission to join the party in C 🌐
 
 ## Description
 
